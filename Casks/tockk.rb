@@ -1,6 +1,6 @@
 cask "tockk" do
   version "0.1.0"
-  sha256 "a3aba0b767a437a1695afdbf3d444eebd61ab7db9ca01cd3eb8bb5e6c5f0e9cc"
+  sha256 "b10b0cd2647ed02203a430495fdb4fd0e690913bd8131d06e352dffcc5184127"
 
   url "https://github.com/somee4/tockk/releases/download/v0.1.0/Tockk-0.1.0.dmg",
       verified: "github.com/somee4/tockk/"
