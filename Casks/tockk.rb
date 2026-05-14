@@ -1,8 +1,8 @@
 cask "tockk" do
-  version "0.1.1"
-  sha256 "b8eb89569bfad0d54519d3eeb0be09858b72e2e61059eb73f418dca9623f6c25"
+  version "0.1.2"
+  sha256 "e2b3fefe0f4cd4011c123c0fd65ab9f5ab4cfbbd6e4eb40041e1b2476e5ae1d5"
 
-  url "https://github.com/somee4/tockk/releases/download/v0.1.1/Tockk-0.1.1.dmg",
+  url "https://github.com/somee4/tockk/releases/download/v0.1.2/Tockk-0.1.2.dmg",
       verified: "github.com/somee4/tockk/"
   name "Tockk"
   desc "Notch-style notifications for local AI coding agent events"
